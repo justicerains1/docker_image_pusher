@@ -1,9 +1,5 @@
-nginx
-alpine
-busybox
+mcr.microsoft.com/windows:20H2-KB5016616-amd64
 #支持私库
-xhofe/alist:latest
-wordpress
-redis
+
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
