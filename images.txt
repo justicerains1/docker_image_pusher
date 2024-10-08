@@ -1,4 +1,4 @@
-mcr.microsoft.com/windows:20H2-KB5016616-amd64
+mcr.microsoft.com/windows:20H2-amd64
 #支持私库
 
 #支持指定架构
