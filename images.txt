@@ -1,4 +1,5 @@
-openeuler/openeuler:24.03
+opengauss/opengauss:5.0.0
+
 #支持私库
 
 #支持指定架构
