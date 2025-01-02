@@ -1,4 +1,8 @@
-busybox:latest
+openresty/openresty:1.27.1.1-0-bullseye-fat
+nginx
+jenkins/jenkins
+sonatype/nexus3
+gitlab/gitlab-ce
 #支持私库
 
 #支持指定架构
