@@ -1,5 +1,4 @@
-opengauss/opengauss:5.0.0
-
+justb4/jmeter:latest
 #支持私库
 
 #支持指定架构
